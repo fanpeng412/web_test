@@ -1,0 +1,22 @@
+*{
+	padding:0;
+	margin:0;
+}   /*设置默认样式*/
+
+#ID1{
+	color:#FFF;
+	background-color:black;
+	padding:1px 1px;  /*如果这项被设为0，上下黑色边框会消失*/ 
+	margin:10px 10px;
+}
+#ID2{
+	background-color:red;
+	color:black;
+	margin:10px 10px;
+	border:1px solid #F00;
+}
+.cities{
+	background-color:black;
+	color:#F00;
+	font-size:x-large;
+}
